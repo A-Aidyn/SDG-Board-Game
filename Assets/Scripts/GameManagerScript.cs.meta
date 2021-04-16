@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38fefb0bc1ac04be6a9f0c90a6b2fc0f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - votingPanelPrefab: {fileID: 6123836494918991833, guid: dc7e0119118791fa8882ccc3ce4fe37f,
+      type: 3}
+  - issueButtonPrefab: {fileID: 9074550272260313870, guid: 8ffa63f70b3d6f3fd9490c0eb40bd1e5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
